@@ -20,4 +20,4 @@ RUN docker build -t image .
 # Run the Docker container and map it to port 80
 RUN docker run -d -p 80:80 image
 
-# Port mapping: The application runs on port 80
+# Port mapping: The application runs on port
