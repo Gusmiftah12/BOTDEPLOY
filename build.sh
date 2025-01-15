@@ -1,4 +1,4 @@
 #!/bin/bash
 pip install --no-cache-dir -r requirements.txt
-python run.py &  # Jalankan python run.py di background
+nohup python run.py &
 echo "Step 1 completed"
