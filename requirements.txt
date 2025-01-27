@@ -11,7 +11,6 @@ requests
 telebot
 uvloop
 telegraph
-tgcrypto
 telebot
 aiohttp
 anyio==4.2.0
